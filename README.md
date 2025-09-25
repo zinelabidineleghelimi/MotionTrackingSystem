@@ -33,7 +33,21 @@ This thesis proposed a DL-based model that follows the tracking-by-detection app
 - Neural Compute Stick (Intel Movidius NCS)  
 - YOLOv8 (object detection)  
 - DeepSORT (object tracking)  
-- Python, OpenCV, PyTorch  
+- Python, OpenCV, PyTorch
+
+## 🧪 Results
+
+Below are a few sample results and graphs from the motion tracking experiments.  
+All remaining figures, detailed evaluations, and analysis can be found in the full thesis document.  
+
+
+<img width="1222" height="380" alt="image" src="https://github.com/user-attachments/assets/500fec01-8bc0-43e3-b1a1-76964c342100" />
+*Figure 1: Frame 5 tracking result
+
+<img width="1235" height="626" alt="image" src="https://github.com/user-attachments/assets/bd322ce0-5b8c-4786-be67-1b8852e3be2e" />
+*Figure 2: The results of the losses from the training and validations for the large model.
+
+
 
 ---
 
