@@ -24,7 +24,7 @@ This thesis proposed a DL-based model that follows the tracking-by-detection app
 ---
 
 ## 📑 Thesis
-📄 You can read the full thesis here: [Thesis PDF](/Masterthesis.pdf)
+📄 You can read the full thesis here: [MasterThesis.pdf](https://github.com/zinelabidineleghelimi/MotionTrackingSystem/blob/main/MasterThesis.pdf)  
 
 ---
 
